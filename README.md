@@ -1,16 +1,19 @@
-## Hi there 👋
+Arnaldo Pinhoni
 
-<!--
-**arnaldopinhoni/arnaldopinhoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional de Dados com experiência em BI e engenharia de dados, atuando com Power BI, SQL, Python, APIs e Protheus.
 
-Here are some ideas to get you started:
+🔧 Tecnologias
+- Python | SQL | PostgreSQL
+- Pandas | Requests | ETL
+- Power BI | DAX
+- Apache Airflow
+- Git | Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Foco atual
+- Engenharia de Dados Júnior
+- Análise de Dados / BI
+- Pipelines, integração de dados e analytics
+
+📫 Contato
+- LinkedIn: https://www.linkedin.com/in/arnaldo-pinhoni/
+- Email: arnaldo.pinhoni@gmail.com
