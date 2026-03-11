@@ -63,7 +63,7 @@ Sou profissional de dados com experiência em **análise, BI e engenharia de dad
     title="Databricks" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"
+    src="https://share.google/4in5RiZHd5W3RyELL.png"
 />
 <br/>
 <br/>
